@@ -2,7 +2,7 @@
 
 Estimate the value of the percolation threshold via [Monte Carlo simulation](https://en.wikipedia.org/wiki/Monte_Carlo_method).
 
-## prior acknowledge
+## prior knowledge
 
 - [CS61B lecture 20](https://sp18.datastructur.es/index.html)
 
